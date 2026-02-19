@@ -1,0 +1,7 @@
+giskard[llm]
+pandas
+python-dotenv
+azure-identity
+azure-ai-projects
+openai
+torch
